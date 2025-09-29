@@ -116,7 +116,7 @@ Replace `branch-name` with the name of an existing branch you want to go to.
 Now that you are in your *new* branch, we can now push the changes to GitHub. To do this, you need to run:
 
 ```
-git push -u origin main
+git push origin your-branch-name
 ```
 
 It should look something like this:
